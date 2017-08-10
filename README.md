@@ -1,4 +1,4 @@
-#Chapter 2 Project
+#Chapter 2 Project Due 9/25/2017 7:15 p.m.
 **Part 1**: *Financial application, compound value*. Suppose you save **$100** each month into a savings account with the annual interest rate of 5%. Thus, the monthly interest rate is 0.05/12 = 0.00417. After the first month, the value in the account becomes
 
 100* (1 + 0.00417) = 100.417
